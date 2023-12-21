@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "com.netflix.discovery",
+    "type": "java.lang.String",
+    "description": "A description for 'com.netflix.discovery'"
+  },
+  {
+    "name": "level",
+    "type": "java.lang.String",
+    "description": "A description for 'level'"
+  },
+  {
+    "name": "fetch-registry",
+    "type": "java.lang.String",
+    "description": "A description for 'fetch-registry'"
+  },
+  {
+    "name": "register-with-eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'register-with-eureka'"
+  },
+  {
+    "name": "client",
+    "type": "java.lang.String",
+    "description": "A description for 'client'"
+  },
+  {
+    "name": "eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka'"
+  },
+  {
+    "name": "logging",
+    "type": "java.lang.String",
+    "description": "A description for 'logging'"
+  },
+  {
+    "name": "com.netflix.eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'com.netflix.eureka'"
+  },
+  {
+    "name": "port",
+    "type": "java.lang.String",
+    "description": "A description for 'port'"
+  },
+  {
+    "name": "server",
+    "type": "java.lang.String",
+    "description": "A description for 'server'"
+  }
+]}
